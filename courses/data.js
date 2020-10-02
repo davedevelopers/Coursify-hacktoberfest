@@ -90,4 +90,12 @@ let data = [
     image: "",
     tags: ["flutter", "firebase", "app"],
   },
+  {
+  name:'MongoDB tutorial for beginners',
+  instructor: 'The Net Ninja',
+  url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u',
+  description:'Basics of MongoDB, including how to install and connect to MongoDB on your local computer as well as create, read, update and delete data.',
+  image: '',
+  tags:['Web Development', 'MongoDB']
+}
 ];
